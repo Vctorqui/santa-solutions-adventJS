@@ -5,3 +5,8 @@
 
 - [Reto 1🎄](./Reto-1/instrucciones.md)
 - [Reto 2🎅🏻](./Reto-2/instrucciones.md)
+
+
+## Autor
+Un agradecimiento a Midu y a todos los que colaboraron para que este proyecto sea posible✨
+- [Midudev](https://github.com/midudev)
