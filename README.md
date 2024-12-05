@@ -8,7 +8,7 @@
 
 
 ## Autor
-Un agradecimiento a Midu y a todos los que colaboraron para que este proyecto sea posible✨
+Un agradecimiento a Midu y a todos los que colaboraron para que este proyecto (adventJS) sea posible✨
 - [Midudev](https://github.com/midudev)
 
 ## Mira más de mi trabajo
