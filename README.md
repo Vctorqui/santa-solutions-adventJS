@@ -1,7 +1,7 @@
 # Santa solutions *(AdventJS 2024)*
 ¡Bienvenido! Aquí encontrarás las soluciones de los retos del AdventJS 2024, además de una explicación de cómo abordar cada reto. 
 
-¡Espero te ayude! 🚀Recuerda que más de una forma de resolverlos💪🏻
+¡Espero te ayude! 🚀Recuerda que hay más de una forma de resolverlos💪🏻
 
 ## AdventJS 2024
 - [AdventJS🎄](https://adventjs.dev/es)
