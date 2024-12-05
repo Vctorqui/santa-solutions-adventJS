@@ -1,5 +1,5 @@
-# santa-solutions-adventJS
-¡Bienvenido! Aquí encontraras las soluciones de los retos del AdventJS 2024, además de una explicación de cómo abordar cada reto. 
+# Santa solutions *(AdventJS 2024)*
+¡Bienvenido! Aquí encontrarás las soluciones de los retos del AdventJS 2024, además de una explicación de cómo abordar cada reto. 
 
 ¡Espero te ayude! 🚀Recuerda que más de una forma de resolverlos💪🏻
 
@@ -15,7 +15,7 @@ Un agradecimiento a Midu y a todos los que colaboraron para que este proyecto se
 <ul align="left">
   <li>
    <a href="https://victorqui-portfolio.netlify.app/" target="blank">
-     Portfolio Web
+     Web
   </a>
     
   </li>
