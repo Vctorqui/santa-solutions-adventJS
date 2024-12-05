@@ -3,5 +3,5 @@
 
 ¡Espero te ayude! 🚀Recuerda que más de una forma de resolverlos💪🏻
 
-- [Reto 1🎄](./Reto-1)
-- [Reto 2🎅🏻](./Reto-2)
+- [Reto 1🎄](./Reto-1/instrucciones.md)
+- [Reto 2🎅🏻](./Reto-2/instrucciones.md)
