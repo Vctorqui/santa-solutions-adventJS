@@ -19,3 +19,13 @@ console.log(preparedGifts3) // []
 // No hay regalos, la lista queda vacía
 ```
 
+## ¿Qué deberiamos hacer?🤔
+
+1. Buscamos una forma de que no hayan valores repetidos. Esto lo logramos con el método set()
+2. Retornamos el array uniqueGifts convertido de un Set a un array usando el operador de propagación. Luego, aplicamos el método sort con una función de comparación para ordenar los elementos en orden ascendente.
+
+### Algunos Datos del método set()
+
+- Valores Únicos: No puede contener valores duplicados.
+- Orden de Inserción: Los elementos de un Set se almacenan en el orden en que fueron insertados.
+- Operaciones Útiles: Tiene métodos y propiedades que permiten realizar operaciones como añadir, eliminar y buscar elementos.
