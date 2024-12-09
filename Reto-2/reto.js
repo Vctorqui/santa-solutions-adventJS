@@ -1,4 +1,4 @@
-function createFrame(names) {
+const createFrame = (names) => {
   const maxWordLength = Math.max(...names.map((name) => name.length))
   const frameWidth = maxWordLength + 4
   const borderLine = '*'.repeat(frameWidth)
@@ -6,10 +6,18 @@ function createFrame(names) {
   return [borderLine, ...frameNames, borderLine].join('\n')
 }
 
-createFrame(['midu', 'madeval', 'educalvolpz'])
+const frame1 = ['midu', 'madeval', 'educalvolpz']
+const createFrame1 = createFrame(frame1)
+console.log(createFrame1)
 
-createFrame(['midu'])
+const frame2 = ['midu']
+const createFrame2 = createFrame(frame2)
+console.log(createFrame2)
 
-createFrame(['a', 'bb', 'ccc'])
+const frame3 = ['a', 'bb', 'ccc']
+const createFrame3 = createFrame(frame3)
+console.log(createFrame3)
 
-createFrame(['a', 'bb', 'ccc', 'dddd'])
+const frame4 = ['a', 'bb', 'ccc', 'dddd']
+const createFrame4 = createFrame(frame4)
+console.log(createFrame4)
