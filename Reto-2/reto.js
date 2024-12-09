@@ -1,4 +1,4 @@
-const createFrame = (names) => {
+function createFrame(names) {
   const maxWordLength = Math.max(...names.map((name) => name.length))
   const frameWidth = maxWordLength + 4
   const borderLine = '*'.repeat(frameWidth)
